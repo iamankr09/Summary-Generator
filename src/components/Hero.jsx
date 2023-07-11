@@ -10,7 +10,7 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://www.linkedin.com/in/ranjeet-prasad-235115206/",
+              "https://www.linkedin.com/in/aman-kumar-b2290b205/",
               "_blank"
             )
           }
